@@ -1,27 +1,32 @@
 name: Generate Snake Animation
 
 on:
+  # Gatilho para rodar automaticamente diariamente
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente
-  workflow_dispatch: # Permite execução manual do workflow
+    - cron: "0 0 * * *" # Todos os dias à meia-noite (UTC)
+
+  # Gatilho manual (opcional)
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Faz o checkout do repositório
-      - uses: actions/checkout@v2
+      # Clona o repositório
+      - uses: actions/checkout@v4
 
-      # Gera a animação da Snake
-      - uses: Platane/snk@v2
+      # Configura e gera a animação da snake
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
-          github_user_name: Ca-ua # Substitua pelo seu username do GitHub
+          github_user_name: Ca-ua
           outputs: dist/snake.svg
 
-      # Commita e adiciona o arquivo da Snake no repositório
-      - name: Commit and Push Snake Animation
-        uses: EndBug/add-and-commit@v9
+      # Faz o commit do arquivo gerado na branch output
+      - name: Push to output branch
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          add: "dist/snake.svg"
-          message: "Updated Snake Animation 🐍"
+          branch: output
+          force: true
+          directory: dist
