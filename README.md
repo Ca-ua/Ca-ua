@@ -1,75 +1,76 @@
-<!-- Banner animado de boas-vindas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8300F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8300F7&height=120&section=header"/>
 
-<!-- Contador de visitantes -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caua-lira&color=8300F7&style=flat-square" alt="Visualizações do perfil" />
-</p>
+---
 
 <div align="center">
-
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEDCeQHJBOfHQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709047984995?e=1748476800&v=beta&t=uRpwWu5E9rN8bBrmHt0eohR4nHABPnOtEWCrZhrQPCA" width="150" style="border-radius: 50%;" alt="meu avatar" />
-
-# 👋 Olá! Eu sou o Cauã  
-
-🎓 Licenciando em Computação pela UFRPE.  
-💻 Foco em desenvolvimento backend com Python.  
-📊 Explorando o mundo dos dados, automação e IA.  
-🛠️ Sempre aprendendo e buscando criar soluções inteligentes.
-
+  <h2>
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">
+    Hello, world! 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+    Eu sou Cauã Cunha
+  </h2>
+  <p>
+    🧠 Desenvolvedor backend em formação, criativo e movido a desafios.<br>
+    🎓 Licenciando em Computação pela UFRPE<br>
+    💻 Foco em desenvolvimento backend com Python<br>
+    📊 Explorando dados, automação e inteligência artificial<br>
+    🛠️ Sempre buscando criar soluções inteligentes e eficientes
+  </p>
 </div>
 
 ---
 
-## 🧠 Tecnologias que domino ou estou explorando:
-
 <div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+  <a href="https://github.com/Ca-ua">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ca-ua&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ca-ua&theme=react&hide_border=false&layout=compact"/>
+  </a>
 </div>
 
 ---
 
-## 🚀 Projeto em destaque
-
-### 🏋️‍♂️ Workout API
-
-🔗 **[Repositório no GitHub](https://github.com/caua-lira/workout_api)**  
-📌 API Rest para gestão de treinos e exercícios, feita com **FastAPI** e **PostgreSQL**.  
-
-> ✨ Foco em performance, segurança e escalabilidade.  
-> 📦 Projeto modular com boas práticas de backend em Python.  
-> 🧪 Em constante evolução com testes e novas funcionalidades.  
-
-![GitHub Repo stars](https://img.shields.io/github/stars/caua-lira/workout_api?style=social)
-
----
-
-## 📬 Contato
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-lira/)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ccunhalira8760@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/caua-lira)
-
+  <h3>Vamos conversar? 💬</h3>
+  <a href="mailto:ccunhalira8760@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cauacunha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 ---
 
-## 🐍 Snake com os commits
-
-![snake gif](https://github.com/Ca-ua/Ca-ua/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <h3>Tecnologias que utilizo</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="NoSQL" title="NoSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" alt="Power BI" title="Power BI"/>
+</div>
 
 ---
+
+<div align="center">
+  <p><b>Quantidade de visitantes</b></p>  
+  <img src="https://profile-counter.glitch.me/Ca-ua/count.svg" alt="visitor counter" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ca-ua/Ca-ua/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ca-ua/Ca-ua/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Ca-ua/Ca-ua/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8300F7&height=120&section=footer"/>
+
